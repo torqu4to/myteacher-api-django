@@ -1,0 +1,12 @@
+Professor(nome="Cleyson Lima", valor_hora=95.8, descricao="Professor de programação, pode te ensinar sobre Python e Django", foto="https://github.com/cleysonph.png").save()
+
+Professor(nome="Elton Fonseca", valor_hora=120.35, descricao="Professor de programação, pode te ensinar sobre Typescript e React", foto="https://github.com/elton-fonseca.png").save()
+
+Professor(nome="Bruno Torquato", valor_hora=135, descricao="Professor de programação, pode te ensinar sobre Javascript e NodeJs", foto="https://github.com/torqu4to.png").save()
+
+Professor(nome="Akira Hanashiro", valor_hora=173.5, descricao="Professor de programação, pode te ensinar tudo sobre as tecnologias do momento em frontend", foto="https://github.com/hanashiro.png").save()
+
+
+
+
+
